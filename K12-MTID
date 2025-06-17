@@ -1,50 +1,23 @@
-<table>
-  <caption>
-    The taxonomy of teaching intention based on the teaching engagement theory, comprising eight fine-grained categories distributed across three core dimensions: emotion, cognition, and interaction. Each intention is annotated with its abbreviation (in parentheses) and accompanied by a description of its concrete manifestations in real teaching scenarios.
-  </caption>
-  <thead>
-    <tr>
-      <th>Dimension</th>
-      <th>Teaching Intention</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">Emotion</td>
-      <td>Stimulate Interest (SI)</td>
-      <td>Spark students' interest in the content with engaging topics or activities.</td>
-    </tr>
-    <tr>
-      <td>Emotional Support and Feedback (ESF)</td>
-      <td>Provide feedback on students' performance, highlighting strengths, weaknesses, and suggestions for improvement.</td>
-    </tr>
-    <tr>
-      <td rowspan="3">Cognition</td>
-      <td>Knowledge Instruction (KI)</td>
-      <td>Deliver subject-specific knowledge, including facts, concepts, and principles, through explanation, description, and interpretation.</td>
-    </tr>
-    <tr>
-      <td>Summarization (S)</td>
-      <td>Summarize and synthesize course content or key knowledge points.</td>
-    </tr>
-    <tr>
-      <td>Guide Thinking (GT)</td>
-      <td>Pose questions to students to encourage critical thinking.</td>
-    </tr>
-    <tr>
-      <td rowspan="3">Interaction</td>
-      <td>Increase Participation (IP)</td>
-      <td>Assign tasks by giving instructions, prompting student responses, or engaging them in activities.</td>
-    </tr>
-    <tr>
-      <td>Classroom Management (CM)</td>
-      <td>Manage classroom activities through clear instructional guidance.</td>
-    </tr>
-    <tr>
-      <td>Promote Collaborative Learning (PCL)</td>
-      <td>Encourage collaboration through peer discussion and cooperative learning.</td>
-    </tr>
-  </tbody>
-</table>
+|   Dimension   |   Teaching Intention   |   Description   |
+|---------------|------------------------|-----------------|
+| Emotion       | Stimulate Interest (SI) | Spark students' interest in the content with engaging topics or activities. |
+|               | Emotional Support and Feedback (ESF) | Provide feedback on students' performance, highlighting strengths, weaknesses, and suggestions for improvement. |
+| Cognition     | Knowledge Instruction (KI) | Deliver subject-specific knowledge, including facts, concepts, and principles, through explanation, description, and interpretation. |
+|               | Summarization (S) | Summarize and synthesize course content or key knowledge points. |
+|               | Guide Thinking (GT) | Pose questions to students to encourage critical thinking. |
+| Interaction   | Increase Participation (IP) | Assign tasks by giving instructions, prompting student responses, or engaging them in activities. |
+|               | Classroom Management (CM) | Manage classroom activities through clear instructional guidance. |
+|               | Promote Collaborative Learning (PCL) | Encourage collaboration through peer discussion and cooperative learning. |
+
+
+|   Teaching Intention   |   Sample Size   |   Examples                                                               |
+|------------------------|-----------------|--------------------------------------------------------------------------|
+| SI                     | 253             | Class, I have a riddle for you. Would you like to give it a try?         |
+| ESF                    | 3627            | I would like to commend [name] for her excellent contribution.           |
+| KI                     | 6508            | Another form of Earth's movement is its revolution.                      |
+| S                      | 331             | Today, we learned electric motor structure and rotational principles.    |
+| GT                     | 9270            | What are the factors that affect internal energy?                        |
+| IP                     | 4175            | Let's ask the students from Group 5.                                     |
+| CM                     | 1852            | Class, please have a seat.                                               |
+| PCL                    | 266             | Alright, discuss it with your partner.                                   |
 
